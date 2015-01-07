@@ -8,8 +8,8 @@ import glob
 
 # global variables
 speriod=(15*60)-1
-dbname='/var/www/templog.db'
-
+#dbname='/var/www/templog.db'
+dbname='/home/pi/git/rpi_temp_logger/templog.db'
 
 
 # store the temperature in the database

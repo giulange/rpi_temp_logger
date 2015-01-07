@@ -1,0 +1,7 @@
+# notes on howto:
+
+# -compile
+./webgui.py > /usr/share/webiopi/htdocs/app/gpio-header/index.html
+
+# -browse
+http://rpi-giuliano.noip.me:8000/app/gpio-header
